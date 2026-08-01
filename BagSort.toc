@@ -1,0 +1,9 @@
+## Interface: 120005
+## Author: Ginutty
+## Title: BagSort
+## Version: 1.10
+## IconTexture: 133639
+## SavedVariables: BagSortDB
+## Notes: Display item levels and sort equipment by item level
+
+BagSort.lua
