@@ -1,7 +1,7 @@
-## Interface: 120005
+## Interface: 120100, 120105
 ## Author: Ginutty
 ## Title: BagSort
-## Version: 1.10
+## Version: 1.2
 ## IconTexture: 133639
 ## SavedVariables: BagSortDB
 ## Notes: Display item levels and sort equipment by item level
