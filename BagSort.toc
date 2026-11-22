@@ -1,5 +1,6 @@
 ## Interface: 120100, 120105
 ## Author: Ginutty
+## Category: Bags & Inventory
 ## Title: BagSort
 ## Version: 1.2
 ## IconTexture: 133639
